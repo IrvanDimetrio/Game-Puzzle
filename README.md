@@ -4,6 +4,4 @@ Contoh game puzzle dengan program java. Program puzzle ini akan mencari solusi u
 
 ## Output 
 
-![image](https://user-images.githubusercontent.com/52452132/121354849-7f4da780-c959-11eb-9d47-dc50b6e01dd3.png)
-
-![image](https://user-images.githubusercontent.com/52452132/121354916-8e345a00-c959-11eb-88c3-eb17c56b5d53.png)
+![image](https://user-images.githubusercontent.com/52452132/121354849-7f4da780-c959-11eb-9d47-dc50b6e01dd3.png) ![image](https://user-images.githubusercontent.com/52452132/121354916-8e345a00-c959-11eb-88c3-eb17c56b5d53.png)
